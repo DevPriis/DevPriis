@@ -3,7 +3,7 @@
 
 # Bem vindos ao meu Git HUB !💻
 
-Sou estudante de Analise e desenvolvimento de Sistemas .
+Estudante de Analíse e Desenvolvimento de Sistemas .
 
 
 - ❤️ UX/design
